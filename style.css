@@ -1,0 +1,19 @@
+#container {
+  width: 90%;
+  background-color:blue;
+  margin:0 auto;
+}
+h1{
+  font-family:georgia,"Times New Roman",serif;
+}
+
+p{
+  font-family: arial, helvetica, sans-serif;
+  font-size: 2em;
+  font-style: italic;
+  color:white;
+
+}
+body{
+  background-color:yellow;
+}
