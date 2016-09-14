@@ -46,8 +46,8 @@ body{
 
 #nav a:link, a:visited {
   display:block;
-  color: #white;
-  background-color: #DB7093
+  color: white;
+  background-color: #DB7093;
   text-align:center;
   text-decoration:none;
   font-family:Helvetica, Arial, sans-serif;
@@ -69,5 +69,4 @@ body{
 
 img {
   border-style:none;
-  align:center;
 }
