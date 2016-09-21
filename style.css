@@ -1,6 +1,6 @@
 #container {
   width: 90%;
-  background-color:#DCDCDC;
+  background-color:#DDA0DD;
   margin:0 auto;
   align-content:center;
   text-align:center;
@@ -19,9 +19,7 @@ font-style:bold 700;
 
 h3{
 font-family: 'Roboto', sans-serif;
-font-style:medium 500 italic;
-  color:white
-
+  color:white;
 }
 
 p{
@@ -32,7 +30,7 @@ p{
 
 }
 body{
-  background-color:#DDA0DD;
+  background-color:#800080;
 }
 
 #nav {
@@ -50,7 +48,7 @@ body{
 #nav a:link, a:visited {
   display:block;
   color: purple;
-  background-color: #DB7093;
+  background-color:#B0E0E6;
   text-align:center;
   text-decoration:none;
   font-family:Helvetica, Arial, sans-serif;
