@@ -7,23 +7,23 @@
 }
 
 h1{
-  font-family:georgia,"Times New Roman",serif;
+  font-family: 'Roboto', sans-serif;
   color:white;
 }
 
 h2{
-  font-family:Arial,helvetica, sans-serif;
+font-family: 'Roboto', sans-serif;
   color:white;
 }
 
 h3{
-font-family:georgia,"Times New Roman", serif;
+font-family: 'Roboto', sans-serif;
   color:white
 
 }
 
 p{
-  font-family: arial, helvetica, sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 1.5em;
   font-style: italic;
   color:white;
