@@ -13,12 +13,13 @@ font-family: 'Roboto Slab', serif;
 
 h2{
 font-family: 'Roboto', sans-serif;
-weight:bold;
+font-style:bold 700;
   color:white;
 }
 
 h3{
 font-family: 'Roboto', sans-serif;
+font-style:medium 500 italic;
   color:white
 
 }
