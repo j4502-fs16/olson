@@ -50,7 +50,7 @@ body{
   background-color:#B0E0E6;
   text-align:center;
   text-decoration:none;
-  font-family:Helvetica, Arial, sans-serif;
+font-family: 'Roboto', sans-serif;
   padding: 8px;
 }
 
@@ -60,7 +60,7 @@ body{
 
 #footer {
   color:black;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: 'Roboto', sans-serif;
   text-align:left;
   font-size:.8em;
   font-style:normal;
