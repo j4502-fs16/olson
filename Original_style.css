@@ -1,3 +1,83 @@
+#container {
+  width: 90%;
+  background-color:#DDA0DD;
+  margin:0 auto;
+  align-content:center;
+  text-align:center;
+}
+
+h1{
+font-family: 'Roboto Slab', serif;
+  color:white;
+}
+
+h2{
+font-family: 'Roboto', sans-serif;
+  color:white;
+}
+
+h3{
+font-family: 'Roboto', sans-serif;
+  color:white;
+}
+
+p{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.5em;
+  font-style: italic;
+  color:white;
+
+}
+body{
+  background-color:#800080;
+}
+
+#nav {
+  padding:0;
+}
+
+#nav li {
+  list-style-type:none;
+  float:left;
+  margin:0;
+  padding:0;
+  width:20%;
+}
+
+#nav a:link, a:visited {
+  display:block;
+  color: purple;
+  background-color:#B0E0E6;
+  text-align:center;
+  text-decoration:none;
+font-family: 'Roboto', sans-serif;
+  padding: 8px;
+}
+
+#nav a:hover, a:active {
+  background-color:#E6E6FA;
+}
+
+#footer {
+  color:black;
+  font-family: 'Roboto', sans-serif;
+  text-align:left;
+  font-size:.8em;
+  font-style:normal;
+}
+
+img {
+  border-style:none;
+}
+
+
+#special a:hover, a:active {
+  background-color:#E6E6FA;
+}
+#special {
+
+}
+
 .navigation{
 list-style:none;
 margin:0;
@@ -29,7 +109,6 @@ flex-flow: column;
 
 .aside{
   flex:1 auto;
-
 }
 
 .main{
@@ -44,12 +123,11 @@ flex-flow: column;
   background: lightgreen;
 }
 .main{
-  background: deepskyblue;
+  background: #DDA0DD;
   text-align:left;
 }
 .aside-1{
   background: gold
-
 }
 .aside-2{
   background: hotpink;
@@ -102,13 +180,9 @@ img{
   }
 
   img{
-    width:95%;
+    width:50%;
     height:150px;
     margin-right:10px;
-  }
-
-  p{
-    margin-left:10px;
   }
 }
 
