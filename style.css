@@ -111,3 +111,49 @@ img{
     margin-left:10px;
   }
 }
+
+
+
+@media all and (min-width:600px){
+  .header{
+    display:flex;
+    flex-flow:row;
+  }
+  .navigation{
+    flex-flow:row;
+    justify-content:space-around;
+    background:#00a085;
+  }
+  .navigation a:hover{
+    background:#00806A;
+    padding:5px 20px;
+  }
+
+}
+
+
+@media all and (min-width:800px){
+.header{
+  display:flex;
+  flex-flow:column;
+}
+.navigation{
+  flex-flow:row;
+  justify-content:space-around;
+  background:#00a085;
+}
+
+.navigation li{
+  background:#00a085;
+}
+
+}
+
+@media all and (max-width:700px){
+  .story{
+    visibility:hidden;
+  }
+  img{
+    visibility:hidden;
+  }
+}
